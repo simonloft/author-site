@@ -6,6 +6,7 @@ caches:
     images:
         dir: :cacheDir/images
 canonifyURLs: true
+publishDIR: public/
 
 outputs:
   home:
