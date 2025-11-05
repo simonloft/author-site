@@ -94,6 +94,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+        - name: Initialize submodules
+          run: git submodule update --init --recursive   
   deploy:
     environment:
       name: github-pages
