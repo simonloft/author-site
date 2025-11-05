@@ -5,6 +5,7 @@ theme: hugo-profile
 caches:
     images:
         dir: :cacheDir/images
+canonifyURLs: true
 
 outputs:
   home:
