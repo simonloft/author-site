@@ -39,18 +39,10 @@ Sample | Simon Loft
 <img src=https://simonloft.github.io/author-site/fav.png width=30 height=30 class="d-inline-block align-top">
 Simon Loft
 </a>
-<div>
-<input id=search autocomplete=off class="form-control mr-sm-2 d-none d-md-block" placeholder="Ctrl + k to Search..." aria-label=Search oninput=searchOnChange(event)>
-</div>
 <button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#navbarContent aria-controls=navbarContent aria-expanded=false aria-label="Toggle navigation"><svg aria-hidden="true" height="24" viewBox="0 0 16 16" width="24" data-view-component="true"><path fill-rule="evenodd" d="M1 2.75A.75.75.0 011.75 2h12.5a.75.75.0 110 1.5H1.75A.75.75.0 011 2.75zm0 5A.75.75.0 011.75 7h12.5a.75.75.0 110 1.5H1.75A.75.75.0 011 7.75zM1.75 12a.75.75.0 100 1.5h12.5a.75.75.0 100-1.5H1.75z"/></svg>
 </button>
 <div class="collapse navbar-collapse text-wrap primary-font" id=navbarContent>
 <ul class="navbar-nav ms-auto text-center">
-<li class="nav-item navbar-text d-block d-md-none">
-<div class=nav-link>
-<input id=search autocomplete=off class="form-control mr-sm-2" placeholder="Ctrl + k to Search..." aria-label=Search oninput=searchOnChange(event)>
-</div>
-</li>
 <li class="nav-item navbar-text">
 <a class=nav-link href=https://simonloft.github.io/author-site/#projects aria-label=projects>
 Projects
@@ -206,7 +198,6 @@ Hugo Profile
 </footer><script src=https://simonloft.github.io/author-site/bootstrap-5/js/bootstrap.bundle.min.js></script>
 <script>localStorage.getItem("pref-theme")==="dark"?(document.documentElement.classList.add('dark'),document.body.classList.add('dark')):localStorage.getItem("pref-theme")==="light"?(document.body.classList.remove('dark'),document.documentElement.classList.remove('dark')):window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&(document.documentElement.classList.add('dark'),document.body.classList.add('dark'))</script>
 <script>var tooltipTriggerList,tooltipList;document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),document.documentElement.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),document.documentElement.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))}),tooltipTriggerList=[].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]')),tooltipList=tooltipTriggerList.map(function(a){return new bootstrap.Tooltip(a)})</script>
-<script src=https://simonloft.github.io/author-site/js/search.js></script>
 <section id=search-content class=py-2>
 <div class=container id=search-results></div>
 </section>
