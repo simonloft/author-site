@@ -24,6 +24,10 @@ jobs:
       NODE_VERSION: 22.20.0
       TZ: Europe/Oslo
     steps:
+
+      - name: Initialize submodules
+        run: git submodule update --init --recursive   
+
       - name: Checkout
         uses: actions/checkout@v5
         with:
@@ -94,8 +98,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-        - name: Initialize submodules
-          run: git submodule update --init --recursive   
+
   deploy:
     environment:
       name: github-pages
