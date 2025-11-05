@@ -2,6 +2,9 @@ baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Simon Loft"
 theme: hugo-profile
+caches:
+    images:
+        dir: :cacheDir/images
 
 outputs:
   home:
