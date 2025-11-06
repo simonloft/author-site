@@ -33,13 +33,13 @@ markup:
     renderer:
       unsafe: true
 
-#Menus:
-#  main:
-#    - identifier: stories
-#      name: Stories
-#      title: Stories
-#      url: /stories
-#      weight: 1
+Menus:
+  main:
+    - identifier: stories
+      name: Stories
+      title: Stories
+      url: /stories
+      weight: 1
 #    - identifier: gallery
 #      name: Gallery
 #      title: Blog posts
