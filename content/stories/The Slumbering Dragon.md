@@ -6,7 +6,8 @@ author: "Simon Loft"
 tags:
   - Short Fiction
 description: "A short story about a large dragon. Sort of."
-toc: false
+image: /images/pearlescent-dragon.png
+
 ---
 Waves thundered against the rocky outcrops at the foot of the cape, spraying seafoam and splintered boards up the side of the cliff. Far above, Kaito looked down in helpless despair at the remains of the decimated sailing ships as the lighthouse’s beacon spun meaninglessly behind him. The salty air that blew up from the sea stung at his tired eyes, although they were now watering for a different reason. Taking a deep breath, he held his arms out and closed his eyes as he positioned himself on the ledge. This was all he could do now. He could never undo what had already been done, but perhaps he could still find some peace. This was how it should be.
 
