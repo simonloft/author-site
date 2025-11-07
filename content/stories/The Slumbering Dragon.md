@@ -7,7 +7,7 @@ tags:
   - Short Fiction
 description: "A short story about a large dragon. Sort of."
 image: /images/pearlescent-dragon.png
-
+toc: false
 ---
 Waves thundered against the rocky outcrops at the foot of the cape, spraying seafoam and splintered boards up the side of the cliff. Far above, Kaito looked down in helpless despair at the remains of the decimated sailing ships as the lighthouse’s beacon spun meaninglessly behind him. The salty air that blew up from the sea stung at his tired eyes, although they were now watering for a different reason. Taking a deep breath, he held his arms out and closed his eyes as he positioned himself on the ledge. This was all he could do now. He could never undo what had already been done, but perhaps he could still find some peace. This was how it should be.
 
@@ -277,4 +277,17 @@ Droplets of dew scattered from the grass as Ayumu set off once more. Kaito stood
 
 ---
 
-<p style="color:#90D5FF; font-family:Arial">There's a lot I could say about this story, but I'll save it for later, I think.</p>
+<div style="color:#90D5FF; font-family:Arial">I had the title and basic premise of this story—a man whose dreams physically manifest around him—sitting in the back of my head for years, but I never knew what I wanted to do with it.
+
+One day, I learned about a manga contest that Shueisha was holding to celebrate the 50th anniversary of their Tezuka Awards. Unlike all previous contests, this one allowed non-Japanese submissions under a separate category.
+
+Immediately, I tried to think of any story ideas I had gathering cobwebs that might work as a manga one-shot with serialization potential. That was when The Slumbering Dragon popped back up.
+
+Like a string of dominoes, a huge number of ideas started to cascade in my mind, and the entire story basically assembled itself in the span of an hour or two. That was late on a Friday, so I spent the entirety of Saturday and a few hours on Sunday hammering out the story. To date, it's one of the most efficient writing sprees I've had, excluding the minor edits I've made in the years since the original draft. Although I don't consider it one of my best works, it's hard to ignore the role that inspiration plays in spurring creativity and raw output.
+
+I always knew that producing an actual manga one-shot wasn't in the cards, but I still hold out hope that I can work with an artist to adapt this story some day. There's so much more that I would like to do with this world that I think would lend itself extremely well to a visual medium.
+
+Until then, I'll just keep writing all the weird stuff that pops into my head and try to make it as entertaining as possible.
+
+—Simon
+</div>
