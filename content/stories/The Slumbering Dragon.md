@@ -278,8 +278,7 @@ Droplets of dew scattered from the grass as Ayumu set off once more. Kaito stood
 ---
 
 <div style="color:#90D5FF; font-family:Arial">
-I had the title and basic premise of this story—a man whose dreams physically manifest around him—sitting in the back of my head for years, but I never knew what I wanted to do with it.
-
+<p>I had the title and basic premise of this story—a man whose dreams physically manifest around him—sitting in the back of my head for years, but I never knew what I wanted to do with it.</p>
 
 One day, I learned about a manga contest that Shueisha was holding to celebrate the 50th anniversary of their Tezuka Awards. Unlike all previous contests, this one allowed non-Japanese submissions under a separate category.
 
