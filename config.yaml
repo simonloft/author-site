@@ -404,10 +404,10 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
+      path: "stories"
       count: 3
-      title: Recent Posts
-      enable: false
+      title: Recent Stories
+      enable: true
       disableFeaturedImage: false
 #    socialNetworks:
 #      github: https://github.com
