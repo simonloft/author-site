@@ -402,6 +402,8 @@ params:
     #   messageCaption: "Enter your message here"
     #   messageRows: 5
 
+
+
   footer:
     recentPosts:
       path: "stories"
@@ -409,7 +411,7 @@ params:
       title: Recent Stories
       enable: true
       disableFeaturedImage: false
-#    socialNetworks:
+    #    socialNetworks:
 #      github: https://github.com
 #      linkedin: https://linkedin.com
 #      twitter: https://twitter.com
