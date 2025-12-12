@@ -165,3 +165,24 @@ She didn’t; but sadly, I have lost her. Many knew Julia Idoni Moore as a world
 *Obituary for Julia Idoni Moore, written by Brian Christopher Moore*
 
 *January 17, 2061*
+
+---
+
+---
+
+<span style="color:#90D5FF; font-family:Arial">
+<p>This is the first story in my book <a href="https://www.amazon.com/dp/B0CM929YVT">Despite the Rubicon: Stories of Solace in Sorrow.</a></p>
+
+The influences for this story are varied and seemingly nonsensical, but two big ones were the manga <i>A Silent Voice</i> and the anime <i>ERASED</i>. Like <i>The Slumbering Dragon</i>, this was another story that came from a sudden flash of inspiration. Once I had all the pieces together, the writing happened quickly.
+
+Something that might be kind of surprising is that this ending was the one I originally planned, but not the one I originally wrote. Between the original planning and the actual writing, I experienced a rather painful heartbreak that left me in a very unhappy state. Feeling the full weight of how unfair the world can be, I decided to make this story a pure tragedy by having Julia reject Brian at the end.
+
+After sitting on it for a week, I finally accepted how unsatisfying that ending was and wrote the one I originally planned. It's still melancholic and bittersweet, but it's so much better that I can't believe I ever entertained the idea of an alternative.
+
+This story is also of particular importance to me because it was the first time I felt like I had actually written something <i>good</i>. I was writing a decent amount, and I was sending my stories to my mother for proofing and editing. Her edits were always insightful and helped me grow tremendously as I found my writing voice. This was the first story I ever sent her that she felt needed no significant edits, which was a huge confidence boost. I felt like I had taken a big step forward as an author.
+
+Even though it's much older than the other stories in my book—I wrote this back in 2016—and I feel like I've improved a lot since then, I still knew I wanted to include it, even if just for sentimental reasons.
+
+I hope you enjoyed this story. If so, I hope you'll check out my book; it's a collection of some of my best writing. In any case, thanks for reading.
+
+—Simon
