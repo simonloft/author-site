@@ -40,6 +40,12 @@ Menus:
       title: Stories
       url: /stories
       weight: 1
+    - identifier: misc
+      name: Misc
+      title: Misc
+      url: /misc
+      weight: 1
+
 #    - identifier: gallery
 #      name: Gallery
 #      title: Blog posts
