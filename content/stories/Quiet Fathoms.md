@@ -1,6 +1,6 @@
 ---
 title: "Quiet Fathoms"
-date: 2025-30-06T02:38:00-05:00
+date: 2025-12-30T02:38:00-05:00
 draft: false
 author: "Simon Loft"
 tags:
