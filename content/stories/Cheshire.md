@@ -180,7 +180,7 @@ She didn’t; but sadly, I have lost her. Many knew Julia Idoni Moore as a world
 <span style="color:#90D5FF; font-family:Arial">
 <p>This is the first story in my book <a href="https://www.amazon.com/dp/B0CM929YVT">Despite the Rubicon: Stories of Solace in Sorrow.</a></p>
 
-The influences for this story are varied and seemingly nonsensical, but two big ones were the manga <i>A Silent Voice</i> and the anime <i>ERASED</i>. Like <i>The Slumbering Dragon</i>, this was another story that came from a sudden flash of inspiration. Once I had all the pieces together, the writing happened quickly.
+The influences for this story are varied and seemingly nonsensical, but two big ones were the manga <i>A Silent Voice</i> and the anime <i>ERASED</i>. Like <a href=https://simonloft.com/stories/the-slumbering-dragon/>The Slumbering Dragon</a>, this was another story that came from a sudden flash of inspiration. Once I had all the pieces together, the writing happened quickly.
 
 Something that might be kind of surprising is that this ending was the one I originally planned, but not the one I originally wrote. Between the original planning and the actual writing, I experienced a rather painful heartbreak that left me in a very unhappy state. Feeling the full weight of how unfair the world can be, I decided to make this story a pure tragedy by having Julia reject Brian at the end.
 
