@@ -10,7 +10,7 @@ image: /images/julia.png
 toc: false
 ---
 <span style="color:#90D5FF; font-family:Arial">
-<p>This is the first story in my book <a href="https://www.amazon.com/dp/B0CM929YVT">Despite the Rubicon: Stories of Solace in Sorrow.</a></p>
+<p>This is the first story in my book <u><a href="https://www.amazon.com/dp/B0CM929YVT">Despite the Rubicon: Stories of Solace in Sorrow.</a></u></p>
 </span>
 
 ---
@@ -178,7 +178,7 @@ She didn’t; but sadly, I have lost her. Many knew Julia Idoni Moore as a world
 ---
 
 <span style="color:#90D5FF; font-family:Arial">
-<p>This is the first story in my book <a href="https://www.amazon.com/dp/B0CM929YVT">Despite the Rubicon: Stories of Solace in Sorrow.</a></p>
+<p>This is the first story in my book <u><a href="https://www.amazon.com/dp/B0CM929YVT">Despite the Rubicon: Stories of Solace in Sorrow.</a></u></p>
 
 The influences for this story are varied and seemingly nonsensical, but two big ones were the manga <i>A Silent Voice</i> and the anime <i>ERASED</i>. Like <i>The Slumbering Dragon</i>, this was another story that came from a sudden flash of inspiration. Once I had all the pieces together, the writing happened quickly.
 
