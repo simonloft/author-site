@@ -9,6 +9,11 @@ description: "A coming-of-age romance with a tragic twist."
 image: /images/julia.png
 toc: false
 ---
+<span style="color:#90D5FF; font-family:Arial">
+<p>This is the first story in my book <a href="https://www.amazon.com/dp/B0CM929YVT">Despite the Rubicon: Stories of Solace in Sorrow.</a></p>
+</span>
+
+---
 There was a girl I used to know, years ago. I only formally met her in junior high, but I first noticed her in elementary school. Our classes had assigned seating back then. I could never figure out what kind of algorithm they were using to determine where the kids were seated, but she was always one row behind me, at the very back of the room. Sometimes she was right behind me, other times she was a few seats over, but she and I were always close to one another.
 
 Close in terms of space, at least. In terms of friendship, we were miles apart. In fact, besides her name, there were only two things I knew about her when she first caught my eye. One was that she liked to use colored paper. I noticed that the first year she was directly behind me—in fourth grade, I think it was. Every assignment she passed forward that year was written on light pink paper that smelled slightly of strawberries. It was much more ostentatious than most girls, who opted simply to write in colored ink as an expression of their individuality. I noticed in the years to come that her choice of color changed with each new school year—yellow, orange, violet. However, that alone wouldn’t have been interesting enough for me to expend much prepubescent childhood thought on her, my head mostly filled with games and stories and sleepovers with my friends, had it not been for the other thing I knew: regardless of the season, she was always wearing a scarf.
