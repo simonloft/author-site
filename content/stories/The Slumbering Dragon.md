@@ -284,7 +284,7 @@ One day, I learned about a manga contest that Shueisha was holding to celebrate 
 
 Immediately, I tried to think of any story ideas I had gathering cobwebs that might work as a manga one-shot with serialization potential. That was when The Slumbering Dragon popped back up.
 
-Like a string of dominoes, a huge number of ideas started to cascade in my mind, and the entire story basically assembled itself in the span of an hour or two. That was late on a Friday, so I spent the entirety of Saturday and a few hours on Sunday hammering out the story. To date, it's one of the most efficient writing sprees I've had, excluding the minor edits I've made in the years since the original draft. Although I don't consider it one of my best works, it's hard to ignore the role that inspiration plays in spurring creativity and raw output.
+Like a string of dominoes, a huge number of ideas started to cascade in my mind, and the entire story basically assembled itself in the span of an hour or two. That was late on a Thursday, so I spent the entirety of Friday and a few hours on Saturday hammering out the story. To date, it's one of the most efficient writing sprees I've had, excluding the minor edits I've made in the years since the original draft. Although I don't consider it one of my best works, it's hard to ignore the role that inspiration plays in spurring creativity and raw output.
 
 I always knew that producing an actual manga one-shot wasn't in the cards, but I still hold out hope that I can work with an artist to adapt this story some day. There's so much more that I would like to do with this world that I think would lend itself extremely well to a visual medium.
 
