@@ -339,7 +339,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Despite the Rubicon
-        content: A short story anthology exploring the importance of finding solace in sorrow.
+        content: A short story anthology about love, loss, and the importance of finding solace even in the face of sorrow.
         image: /images/projects/rubicon.jpeg
         featured:
           name: View on Amazon
