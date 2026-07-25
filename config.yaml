@@ -358,7 +358,18 @@ params:
         badges:
            - "Game"
            - "Interactive Fiction"
-           - "Twine"   
+           - "Twine"
+
+      - title: Geodessima
+        content: A wiki I'm building for a Rune Factory-style game that will never exist. I would love to work with some talented people to make it a reality, but I'm under no delusions. It's fun to imagine, though.
+        image: /images/projects/geodessima.jpg
+        featured:
+           name: View on Here
+           link: https://geodessima.simonloft.com
+        badges:
+           - "Game"
+           - "Wiki"
+
 #        links:
 #          - icon: fa fa-envelope
 #            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
