@@ -1,8 +1,0 @@
-{{- $image := .Params.image -}}
-
-{{- if $image }}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ $image | absURL }}">
-{{- else }}
-<meta name="twitter:card" content="summary">
-{{- end }}

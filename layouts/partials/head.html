@@ -25,8 +25,8 @@
 
 <!-- Internal templates -->
 {{ template "_internal/google_analytics.html" . }}
-{{ partial "opengraph.html" . }}
-{{ partial "twitter_cards.html" . }}
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
 
 <!-- stylesheets -->
 {{- if (or (eq .Site.Params.UseBootstrapCDN true) (eq .Site.Params.UseBootstrapCDN "css")) -}}

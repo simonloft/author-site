@@ -7,6 +7,8 @@ tags:
   - Short Fiction
 description: "A short contemplation on a savior with devilish intentions."
 image: /images/woebegone-bridge.png
+images:
+  - /images/woebegone-bridge.png
 toc: false
 ---
 Martha Fischer strolled casually down a worn dirt road through the countryside, taking in the fresh air and reveling in the beautiful fall foliage. She had tried many walking paths over the years, but this one had quickly become her favorite. It meandered slowly, at an easy pace, over hills and beside streams—through thickets of trees and between rolling fields of wheat. It was an easy walk, but one of considerable variety in its sights and smells, and one which rarely crossed paths with other people. That was until it came to Lover’s Gorge.

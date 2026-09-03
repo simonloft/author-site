@@ -7,6 +7,8 @@ tags:
   - Short Fiction
 description: "A coming-of-age romance with a tragic twist."
 image: /images/julia.png
+images:
+  - /images/julia.png
 toc: false
 ---
 <span style="color:#90D5FF; font-family:Arial">

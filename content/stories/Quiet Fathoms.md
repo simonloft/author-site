@@ -7,6 +7,8 @@ tags:
   - Short Fiction
 description: "A lamentation."
 image: /images/quiet-fathoms.png
+images:
+  - /images/quiet-fathoms.png
 toc: false
 ---
 Many were the nights I was lulled to sleep by the sounds of crashing waves and air whipping over the pearly sands beyond my bedroom window. Many, also, were the days that, unlike my elder sister, I refused to join my father on his daily fishing trips; even for all the tranquility it offered me—gazing out across the whitecaps from the comfortable safety of the shore—I was still deathly afraid of the sea.
