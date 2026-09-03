@@ -1,4 +1,4 @@
-baseURL: "https://simonloft.github.io/author-site/"
+baseURL: "https://simonloft.com"
 languageCode: "en-us"
 title: "Simon Loft"
 theme: hugo-profile
