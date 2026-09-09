@@ -1,6 +1,6 @@
 ---
 title: "The Devil of Woebegone Bridge"
-date: 2026-09-02T02:38:00-05:00
+date: 2026-08-02T02:38:00-05:00
 draft: false
 author: "Simon Loft"
 tags:
