@@ -44,7 +44,7 @@ He was suddenly cut off by a groan from Arella. He looked down in confusion, and
 
 “You’re right,” he said, rubbing at his five o’clock shadow. “Okay, let’s try for something a bit more original.”
 
-
+<center>***</center>
 
 Silvery light glistened in the frosty night air, cascading from the face of Luna like tears from heaven, bathing the kingdom of Yule in an otherworldly glow. The king and queen of Yule stood together in their bedchamber, looking out across the winter-swept land, and mourned. It was a prosperous kingdom and one which they had ruled benevolently for many years. They had been blessed by much good fortune during their reign and truly felt that to ask for anything more would be self-indulgent. However, despite all their blessings, the one thing the king and queen wanted most of all—something that they would gladly trade their kingdom for—was a child.  
 
@@ -100,7 +100,7 @@ As the neighboring kingdoms mourned for the king’s great loss, he returned to 
 
 The inside of the dragon was like a labyrinth, and the king wandered in darkness for many days, trying to find some vital spot to strike at. However, each swipe with his iron hands was met with resistance in equal measure. It seemed as though there was no hope of bringing down the dragon after all, and as the king was on the verge of giving up, he suddenly found himself in the presence of something warm: the dragon’s heart.
 
-
+<center>***</center>
 
 Thomas paused here and reflected on the events that had transpired, giving careful consideration to what he should say next. Arella had her eyes glued to Thomas’ face in breathless anticipation.  
 
@@ -108,7 +108,7 @@ Thomas paused here and reflected on the events that had transpired, giving caref
 
 “No,” he said, stroking her hair. “Something much more surprising happened.”
 
-
+<center>***</center>
 
 A light smattering of clouds did little to abate the intensity of the noonday sun over the Sisters of Mercy Convent. Sister Claire shielded her eyes with her one free hand, her other being occupied by a bundle of papers and folders, as she stepped out into the courtyard. Though the surrounding foliage had begun to take on the reds and ambers of fall, the air was stagnant with the pervasive heat of summer, as though it were clawing at the earth in one final and desperate push against the relentless advance of autumn.  
 
@@ -196,7 +196,7 @@ The words were sharp and incisive, and they cut deep into Thomas’ heart. He so
 
 Thomas continued to sit with his head in his hands as Sister Claire began walking once more towards the annex. She had a lot to discuss with the other sisters, but if they had the pull with the adoption board that she thought, she might be able to make a case. God willing, it may just be enough for a miracle.
 
-
+<center>***</center>
 
 “So, you see,” Thomas said quietly, his hand on top of Arella's protruding fingers, “when the king found himself in the presence of the dragon’s heart, he was amazed to see the iron fall from his hands. Instead of attacking, he simply reached out and touched it gently. It radiated warmth, and he knew suddenly that his attempt to fight the dragon had been a selfish one, for it truly wanted what was best for the girl.”  
 
@@ -235,9 +235,9 @@ Thomas let out a surprised, breathy laugh, then settled back into the chair, hol
 <span style="color:#90D5FF; font-family:Arial">
 <p>This is simultaenously my favorite and least favorite story that I've written, but it takes a bit of explanation to understand why.
 
-I was wrestling with this story for almost a year. Eventually, I decided, "F*** it, I'm just going to hammer some stuff out and see what happens."
+I was wrestling with this story for almost a year. Eventually, I decided, "Screw it, I'm just going to hammer some stuff out and see what happens."
 
-Ultimately, what I wrote was absolute garbage, and I knew I had to throw it out and start over. But I learned something important: the stuff that didn't work was the stuff that I most wanted to write.
+Ultimately, what I wrote was absolute garbage, and I knew I had to throw it out and start over. But I learned something important: the stuff that I was most looking forward to writing was the stuff that didn't work.
 
 When I first conceptualized this story, I was excited to write Thomas and Arella's interactions. I was especially excited to write Arella. Father/daughter relationships are my favorite dynamic in fiction (or real life), and I was really eager to write that. Unfortunately, I learned quickly that cutting between Thomas' fairy tale and the real world, with Arella reacting to it, completely gutted the pacing of the story, and I simply couldn't write something in that style without ruining everything.
 
@@ -245,6 +245,6 @@ Maybe a better writer could have done Arella justice, but I was restricted to wh
 
 Even though I think this is one of my best stories, I'm still upset that I didn't get to write anything substantial for Arella. I've long romanticized the idea of writing a slice-of-life story (or series of vignettes) about Thomas and Arella (and a few other characters), but I really don't know what I would do with it. I guess I could post it here, so maybe that's an idea I'll revisit.
 
-For now, this is one of my best stories that is also one of my greatest personal anguishes. Maybe if Thomas is suffering, so should I.
+For now, I just have to accept that the story I wanted to write and the story I needed to write didn't end up being the same thing. That's just life, I guess.
 
 —Simon
