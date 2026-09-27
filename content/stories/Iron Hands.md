@@ -245,6 +245,6 @@ Maybe a better writer could have done Arella justice, but I was restricted to wh
 
 Even though I think this is one of my best stories, I'm still upset that I didn't get to write anything substantial for Arella. I've long romanticized the idea of writing a slice-of-life story (or series of vignettes) about Thomas and Arella (and a few other characters), but I really don't know what I would do with it. I guess I could post it here, so maybe that's an idea I'll revisit.
 
-For now, I just have to accept that the story I wanted to write and the story I needed to write didn't end up being the same thing. That's just life, I guess.
+For now, I just have to accept that the story I *wanted* to write and the story I *needed* to write didn't end up being the same thing. That's just life, I guess.
 
 —Simon
