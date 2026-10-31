@@ -1,6 +1,6 @@
 ---
 title: "Hopeless Rumantic"
-date: 2026-10-31T01:48:00-05:00
+date: 2026-10-31T13:30:00-05:00
 draft: false
 author: "Simon Loft"
 tags:
@@ -108,9 +108,9 @@ Just as I have spotted it, it, too, seems to have spotted me, as the silhouette 
 
 As my horse gallops around hills made of sand and salt, I grab my rifle from my back and fire upward. Although my aim is true, the bullet loses all inertia as soon as it enters the water, leaving the monster unscathed. With a click of my tongue, I hold the rifle steady and wait for its silhouette to twist vertically again; despite the danger, if I have any hope of injuring it, I will have to wait for it to breach.
 
-I see the silhouette turn and grip my rifle hard, my finger poised on the trigger. However, the monster seems to be holding fast, as if it intends not to breach again. I wonder at this development for a moment, but a moment is all I have before an enormous barb erupts from the surface and whizzes past my head, taking a chunk of my ear with it.
+I see the silhouette turn and grip my rifle hard, my finger poised on the trigger. However, the monster seems to be holding fast, as if it intends not to breach again. I wonder at this development for a moment, but a moment is all I have before an enormous barb erupts from the surface and whizzes past my head, taking what remains of my ear with it.
 
-It seems as though the initial breach was intended only as an ambush; failing at that, the monster intends to snipe me from above, equipped with projectiles that travel as easily through water as they do through air. With this revelation, I sling my rifle onto my back again, as it will not be of any use to me, and pull my pistol from its holster instead.
+It seems as though the initial breach was intended only as an ambush; failing at that, the monster intends to snipe me from above, equipped with projectiles that travel as easily through water as they do through air. With this revelation, I sling my rifle onto my back again, as it will not be of any use to me, and pull my pistol from its holster instead, ignoring the blood flowing down my jaw.
 
 My horse quickly gallops behind a large hill as another barb erupts from the surface, his sharp instincts no doubt saving my life. With my speculation confirmed, I reach into my ammo pouch and pull out an Implosion Round. If I have any hope of destroying this monster, I will need to strike it directly; however, this time the water works against me in a different way: if I simply fire into it, the pressure differential will cause it to detonate instantly, missing the monster entirely.
 
